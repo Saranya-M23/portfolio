@@ -3,7 +3,7 @@
 ### Technical Skills: Python, SQL, AWS, Snowflake, Tableau, Power BI 
 
 ### Education
-- Masters, Data Science | Wichita State University at Wichita (__May 2023_)
+- Masters, Data Science | Wichita State University at Wichita (_May 2023_)
 - Bachelors, Computer Science | Jawaharlal Nehru Technological University at Hyderabad, India (_May 2011_)
 
 ### Work Experience
