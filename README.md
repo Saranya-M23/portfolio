@@ -1,15 +1,14 @@
-# Data Science Analyst
+# Data Science 
 
 ### Technical Skills: Python, SQL, AWS, Snowflake, Tableau, Power BI 
 
 ### Education
-- Masters, Data Science | Wichita State University at Wichita (_May 2023_)
-- Bachelors, Computer Science | Jawaharlal Nehru Technological University at Hyderabad, India (_May 2011_)
+- Masters, Data Science 
+- Bachelors, Computer Science 
 
 ### Work Experience
-Data Analyst @Unisys 
+Data Analyst
 
 ### Projects
--Heart Disease Analysis
--Traffic Congestion
--Kansas Board Of Regents
+-Project1
+-Project2
