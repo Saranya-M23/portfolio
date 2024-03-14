@@ -10,6 +10,6 @@
 Data Analyst @Unisys 
 
 ### Projects
-Heart Disease Analysis
-Traffic Congestion
-Kansas Board Of Regents
+-Heart Disease Analysis
+-Traffic Congestion
+-Kansas Board Of Regents
